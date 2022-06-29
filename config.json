@@ -5,5 +5,6 @@
   "isEnableFBYT": true,
   "disableClosePurchase": "false",
   "rapidKeyTT": "d0cbbe1f79mshe3c74080d9d0da5p1de4ddjsn21db44140e77",
-  "rapidKeyIG": "67b5c2c1fcmshbf1cccf85c99b99p19f171jsne3292a050391"
+  "rapidKeyIG": "67b5c2c1fcmshbf1cccf85c99b99p19f171jsne3292a050391",
+  "goDownloaderApi": "https://api.godownloader.com/info"
 }
