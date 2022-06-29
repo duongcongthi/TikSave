@@ -1,5 +1,6 @@
 {
   "isSaveEnable": false,
+  "disableOnboarding": false,
   "isDownloadNoWatermark": false,
   "isEnableFBYT": false,
   "disableClosePurchase": "false",
