@@ -1,7 +1,7 @@
 { 
   "isEnablePCAndInternet": false,
   "disableOnboarding": false,
-  "isSaveEnable": true,
+  "isSaveEnable": false,
   "disableOnboarding": false,
   "isDownloadNoWatermark": false,
   "isEnableFBYT": true,
