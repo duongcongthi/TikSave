@@ -1,9 +1,9 @@
 { 
-  "isEnablePCAndInternet": true,
+  "isEnablePCAndInternet": false,
   "disableOnboarding": false,
-  "isSaveEnable": true,
+  "isSaveEnable": false,
   "disableOnboarding": false,
-  "isDownloadNoWatermark": true,
+  "isDownloadNoWatermark": false,
   "isEnableFBYT": true,
   "disableClosePurchase": false,
   "rapidKeyTT": "d0cbbe1f79mshe3c74080d9d0da5p1de4ddjsn21db44140e77",
